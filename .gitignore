@@ -1,0 +1,86 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.db
+.env
+.env.*
+*.sqlite3
+*.log
+*.pot
+*.mo
+*.swp
+*.bak
+*.tmp
+*.old
+*.orig
+*.coverage
+.coverage.*
+.cache/
+*.egg-info/
+*.eggs/
+dist/
+build/
+*.manifest
+*.spec
+*.lock
+Procfile
+
+# Node.js / JS / TS
+node_modules/
+dist/
+build/
+*.log
+.env
+.env.*
+*.tsbuildinfo
+*.next/
+coverage/
+
+# Vite / Tailwind / PostCSS
+.vite/
+*.css.map
+*.js.map
+
+# VS Code
+.vscode/
+.history/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+*.sublime-workspace
+*.sublime-project
+*.idea/
+*.iml
+*.bak
+*.tmp
+*.orig
+*.swp
+*.lock
+
+# Local assets
+attached_assets/
+
+# Ignore database files
+local.db
+
+# Ignore test output
+*.pytest_cache/
+
+# Ignore replit files
+replit.md
+
+# Ignore package manager files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Ignore other generated files
+*.out
+*.log
+*.pid
